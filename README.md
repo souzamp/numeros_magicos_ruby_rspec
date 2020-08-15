@@ -1,4 +1,4 @@
-## App Número Mágicos
+## App Números Mágicos
 Um número X é dito “mágico” quando a raiz quadrada de X existe e é um número primo.
 
 ### Linguagem
